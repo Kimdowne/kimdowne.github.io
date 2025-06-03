@@ -1,0 +1,7 @@
+title: Kimdowne's Study Note
+description: 경상국립대학교 2학년 1학기 과목 노트.
+show_downloads: false
+google_analytics:
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
